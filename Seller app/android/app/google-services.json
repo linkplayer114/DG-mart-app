@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170690532645",
+    "project_id": "dg-mart-app",
+    "storage_bucket": "dg-mart-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170690532645:android:a3c59d4ece9a54dc16f6cc",
+        "android_client_info": {
+          "package_name": "com.dgmart_vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170690532645-k93egjlsu0suc0jfl8dkf93ksr96rlh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjL5hjcNvPKZqMP6WWanDkv_NJM3MJhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170690532645-k93egjlsu0suc0jfl8dkf93ksr96rlh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

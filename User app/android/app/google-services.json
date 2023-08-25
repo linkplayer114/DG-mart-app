@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "170690532645",
+    "project_id": "dg-mart-app",
+    "storage_bucket": "dg-mart-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170690532645:android:71c14187489a149516f6cc",
+        "android_client_info": {
+          "package_name": "com.dgmart_userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170690532645-gjrodovk8fb3f3gtphmojq8k1hlm7kdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjL5hjcNvPKZqMP6WWanDkv_NJM3MJhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170690532645-gjrodovk8fb3f3gtphmojq8k1hlm7kdj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170690532645-cnur17u6q5l3i68sn9fgsle9erkpr19q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dgmartapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170690532645:android:a3c59d4ece9a54dc16f6cc",
+        "android_client_info": {
+          "package_name": "com.dgmart_vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170690532645-t8iqpsogbk0rv93d8unvn8idn9t2ca2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dgmart_vendor_app",
+            "certificate_hash": "fa9062f446d0f2cdca353105bb98e0cd72e2f0c2"
+          }
+        },
+        {
+          "client_id": "170690532645-gjrodovk8fb3f3gtphmojq8k1hlm7kdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjL5hjcNvPKZqMP6WWanDkv_NJM3MJhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170690532645-gjrodovk8fb3f3gtphmojq8k1hlm7kdj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170690532645-cnur17u6q5l3i68sn9fgsle9erkpr19q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dgmartapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
